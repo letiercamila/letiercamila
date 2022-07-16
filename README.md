@@ -3,7 +3,7 @@
   <a href="https://github.com/letiercamila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letiercamila&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Camila-Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
