@@ -1,7 +1,6 @@
 ## Hey!! I'm Camila and a programmer student!
 <div align="center">
   <a href="https://github.com/letiercamila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letiercamila&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
 </div>
 <div style="align-items: center"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
